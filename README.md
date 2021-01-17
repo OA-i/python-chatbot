@@ -2,6 +2,8 @@
 
 ChatBot ~~tolol~~ Pintar
 
+<img src="contoh.png" alt="Chatbot" width="200" height="200" />
+
 # Pemasangan
 
 ```php
